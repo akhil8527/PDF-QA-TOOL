@@ -39,7 +39,7 @@ This project allows you to load a PDF, generate embeddings, and ask questions ab
 5. Run the script:
 
     ```bash
-    python pdf_qa.py --pdf path_to_your_pdf.pdf
+    python main.py --pdf path_to_your_pdf.pdf
     ```
 
 ## Requirements
