@@ -1,0 +1,10 @@
+chromadb
+groq
+ipykernel
+langchain
+pypdfium2
+requests
+tiktoken
+sentence-transformers
+yaspin
+
